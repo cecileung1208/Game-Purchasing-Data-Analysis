@@ -16,7 +16,7 @@ This [file](https://github.com/cecileung1208/Pandas-Heroes-of-Pymoli/blob/master
 *    Most Popular Items
 *    Most Profitable Items
 
-The data frame is extracted from the [CSV File](https://github.com/cecileung1208/Pandas-Heroes-of-Pymoli/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv) saved in the [Resources]https://github.com/cecileung1208/Pandas-Heroes-of-Pymoli/tree/master/Heroes%20of%20Pymoli/Resources) directory.
+The data frame is extracted from the [CSV File](https://github.com/cecileung1208/Pandas-Heroes-of-Pymoli/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv) saved in the [Resources](https://github.com/cecileung1208/Pandas-Heroes-of-Pymoli/tree/master/Heroes%20of%20Pymoli/Resources) directory.
 
 
 ### **2.  Heroes of Pymoli - Trends**
