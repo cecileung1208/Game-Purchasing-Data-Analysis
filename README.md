@@ -1,4 +1,16 @@
-# Panda-Challenge - Heroes of Pymoli
+# Game Purchasing Data Analysis
+
+## Background
+
+## Requirements
+
+## Datasets
+
+## Method
+
+## Script
+
+## Results
 
 ## **This Homework has the following outputs:**
 
