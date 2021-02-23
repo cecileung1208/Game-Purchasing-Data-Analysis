@@ -3,8 +3,20 @@
 ![Image](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/KPI_shutterstock_everything-possible.jpg)
 
 ## Background
+The purpose of this project is to analyze the CSV data provided and conduct a report that uncovers demographic trends and preferences for the fantasy game, Heroes of Pymoli.  Python with Pandas (through Jupyter Notebooks) was used to clean and process the data, as well as calculate the desired outputs.
 
 ## Requirements
+
+The report requires a breakdown of the following:
+
+* Player Count
+* Purchasing Analysis Total
+* Gender Demographics
+* Purchasing Analysis (Gender)
+* Age Demographics
+* Top Spenders
+* Most Popular Items
+* Most Profitable Items
 
 ## Datasets
 
