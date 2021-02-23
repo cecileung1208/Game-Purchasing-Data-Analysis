@@ -20,6 +20,8 @@ The report requires a breakdown of the following:
 
 ## Datasets
 
+[Heroes of Pymoli Purchasing Dataset](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv)
+
 ## Method
 
 ## Script
