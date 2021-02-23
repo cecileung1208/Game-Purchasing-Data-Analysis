@@ -3,16 +3,16 @@
 ![Image](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/KPI_shutterstock_everything-possible.jpg)
 
 ## Background
-The purpose of this project is to analyze the CSV data provided and conduct a report that uncovers demographic trends and preferences for the fantasy game, Heroes of Pymoli.  Python with Pandas (through Jupyter Notebooks) was used to clean and process the data, as well as calculate the desired outputs.
+Heroes of Pymoli is a new fantasy online game that allows people to play for free and they can purchase items to enhance their experience.  A CSV dataset has been provided to uncover demographic trends and preferences to determine what strategies to use to increase revenue by having players to purchase more items.  To accomplish this, Python with Pandas (through Jupyter Notebooks) will be  used to clean and process the data, as well as calculate the desired outputs.
 
 ## Requirements
 
 The report requires a breakdown of the following:
 
 * Player Count
-* Purchasing Analysis Total
+* Purchasing Analysis - Total
 * Gender Demographics
-* Purchasing Analysis (Gender)
+* Purchasing Analysis - Gender
 * Age Demographics
 * Top Spenders
 * Most Popular Items
@@ -23,6 +23,47 @@ The report requires a breakdown of the following:
 [Heroes of Pymoli Purchasing Dataset](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv)
 
 ## Method
+* Import the CSV file into a Jupyter notebook and extract results for the following:
+
+**Player Count**
+* Determine unique number of players for the game.
+
+**Purchasing Analysis - Total**
+* Number of Unique Items
+* Average Purchase Price
+* Total Number of Purchases
+* Total Revenue
+
+**Gender Demographics**
+* Percentage and Count of Male Players
+* Percentage and Count of Female Players
+* Percentage and Count of Other / Non-Disclosed
+
+**Purchasing Analysis - Gender** 
+
+The below each broken by gender:
+* Purchase Count
+* Average Purchase Price
+* Total Purchase Value
+* Average Purchase Total per Person by Gender
+
+**Age Demographics**
+
+The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
+* Purchase Count
+* Average Purchase Price
+* Total Purchase Value
+* Average Purchase Total per Person by Age Group
+
+**Top Spenders**
+
+* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+  * SN
+  * Purchase Count
+  * Average Purchase Price
+  * Total Purchase Value
+
+
 
 ## Script
 
