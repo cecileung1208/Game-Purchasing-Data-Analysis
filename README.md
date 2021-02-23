@@ -1,5 +1,7 @@
 # Game Purchasing Data Analysis
 
+![Image](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/KPI_shutterstock_everything-possible.jpg)
+
 ## Background
 
 ## Requirements
