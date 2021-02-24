@@ -100,6 +100,6 @@ The most profitable and popular item is Final Critic as it has the highest purch
 
 ## Resources
 
-[Heroes of Pymoli Purchasing Dataset](https://github.com/cecileung1208/Game-Purchasing-DataAnalysis/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv)
-[Jupyter Notebook](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HerosOfPymoli.ipynb)
+[Heroes of Pymoli Purchasing Dataset](https://github.com/cecileung1208/Game-Purchasing-DataAnalysis/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv)<br>
+[Jupyter Notebook](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HerosOfPymoli.ipynb)<br>
 [Final Output](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HeroesOfPymoli%20-%20Final%20Output.docx)
