@@ -84,53 +84,24 @@ The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 ## Script
 
 [Jupyter Notebook](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HerosOfPymoli.ipynb)
-[Final Report]()
+[Final Output](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HeroesOfPymoli%20-%20Final%20Output.docx)
 
 ## Results
 
-Demographics
-* There are 576 players in Heroes of Pymoli.
-* Male predominantly accounts for 84% of the players, with 14% being females and almost 2% did not disclosed their gender.
-* There are the most players in the 20-24 Age group that accounts for almost 45% of the players. 
-* Other popular age groups include the 15-19 and 25-29 age group that accounts for 19% and 13% respectively.
+**Gender Demographics**
 
+The major participants who plays and buy the game are predominantly male players as they account almost 85% of the players and the total purchases.
+* 84.03% of the 576 players are male.
+* 82.68% of the total purchases are made by male players.
 
-Purchasing Analysis
-* There are 179 items that are sold at an average of $3.05.
-* 780 purchases are made with a revenue of $2,380.00.
-* Male players make contribute to 83% of the total revenue.  
-* 
+**Age Demographics**
 
+The major participants of the game are in the 20-24 age range as they account for almost 50% of the purchases:
+* 44.79% of the 576 players are in the age 20-24 category.
+* 46.81% of the age 20-24 players are made by these players
 
+**Most Profitable and Popular Items**
 
-
-
-
-## **This Homework has the following outputs:**
-
-### **1.  Heroes of Pymoli - Jupyter Notebook**
-
-This [file](https://github.com/cecileung1208/Pandas-Heroes-of-Pymoli/blob/master/Heroes%20of%20Pymoli/HerosOfPymoli.ipynb) provides the program to extract all the data by the following dataframes that will be useful in implementing new buisness strategies for the gaming company.
-
-*    Total Players
-*    Purchase Analysis (Total)
-*    Gender Demographics
-*    Purchasing Analysis (Gender)
-*    Age Demographics
-*    Purchasing Analysis (Age)
-*    Top Spenders
-*    Most Popular Items
-*    Most Profitable Items
-
-The data frame is extracted from the [CSV File](https://github.com/cecileung1208/Pandas-Heroes-of-Pymoli/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv) saved in the [Resources](https://github.com/cecileung1208/Pandas-Heroes-of-Pymoli/tree/master/Heroes%20of%20Pymoli/Resources) directory.
-
-
-### **2.  Heroes of Pymoli - Trends**
-Based on the analysis from the Dataframes created in the Jupyter Notebook file, a report on the major trends have been documented.
-
-For further details, please refer to the [Heroes of Pymoli - Trends file](https://github.com/cecileung1208/Pandas-Heroes-of-Pymoli/blob/master/Heroes%20of%20Pymoli/HeroesOfPymoli%20-%20Trends.docx).
-
-### **3.  Heroes of Pymoli - Data Frame Output**
-
-The dataframes in the Heroes of Pymoli Jupyter Notebook file does not display properly on Github.  To see the Dataframes in proper format, please refer to the [Heroes of Pymoli - Data Frame Output file](https://github.com/cecileung1208/Pandas-Heroes-of-Pymoli/blob/master/Heroes%20of%20Pymoli/HeroesOfPymoli%20-%20Dataframe%20Output%20Jupyter%20Notebook.docx).
-
+The most profitable and popular item is Final Critic as it has the highest purchase count and made the most profits.
+* There is a total of 13 purchases made for this game.
+* It made a total profit of $59.99.
