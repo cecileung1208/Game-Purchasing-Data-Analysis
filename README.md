@@ -18,9 +18,6 @@ The report requires a breakdown of the following:
 * Most Popular Items
 * Most Profitable Items
 
-## Datasets
-
-[Heroes of Pymoli Purchasing Dataset](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv)
 
 ## Method
 * Import the CSV file into a Jupyter notebook and extract results for the following:
@@ -81,11 +78,6 @@ The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
   * Item Price
   * Total Purchase Value
 
-## Script
-
-[Jupyter Notebook](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HerosOfPymoli.ipynb)
-[Final Output](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HeroesOfPymoli%20-%20Final%20Output.docx)
-
 ## Results
 
 **Gender Demographics**
@@ -105,3 +97,9 @@ The major participants of the game are in the 20-24 age range as they account fo
 The most profitable and popular item is Final Critic as it has the highest purchase count and made the most profits.
 * There is a total of 13 purchases made for this game.
 * It made a total profit of $59.99.
+
+## Resources
+
+[Heroes of Pymoli Purchasing Dataset](https://github.com/cecileung1208/Game-Purchasing-DataAnalysis/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv)
+[Jupyter Notebook](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HerosOfPymoli.ipynb)
+[Final Output](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HeroesOfPymoli%20-%20Final%20Output.docx)
