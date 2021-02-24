@@ -5,8 +5,10 @@
 ## Background
 Heroes of Pymoli is a new fantasy online game that allows people to play for free and they can purchase items to enhance their experience.  A CSV dataset has been provided to uncover demographic trends and preferences to determine what strategies to use to increase revenue by having players to purchase more items.  To accomplish this, Python with Pandas (through Jupyter Notebooks) will be  used to clean and process the data, as well as calculate the desired outputs.
 
-## Requirements
+## Datasets
+[Heroes of Pymoli Purchasing Dataset](https://github.com/cecileung1208/Game-Purchasing-DataAnalysis/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv)
 
+## Requirements
 The report requires a breakdown of the following:
 
 * Player Count
@@ -78,6 +80,10 @@ The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
   * Item Price
   * Total Purchase Value
 
+## Scripts
+[Jupyter Notebook](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HerosOfPymoli.ipynb)<br>
+[Final Output](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HeroesOfPymoli%20-%20Final%20Output.docx)
+
 ## Results
 
 **Gender Demographics**
@@ -98,8 +104,5 @@ The most profitable and popular item is Final Critic as it has the highest purch
 * There is a total of 13 purchases made for this game.
 * It made a total profit of $59.99.
 
-## Resources
 
-[Heroes of Pymoli Purchasing Dataset](https://github.com/cecileung1208/Game-Purchasing-DataAnalysis/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv)<br>
-[Jupyter Notebook](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HerosOfPymoli.ipynb)<br>
-[Final Output](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HeroesOfPymoli%20-%20Final%20Output.docx)
+
