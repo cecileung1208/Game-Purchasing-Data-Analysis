@@ -63,11 +63,48 @@ The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
   * Average Purchase Price
   * Total Purchase Value
 
+**Most Popular Items**
 
+* Identify the 5 most popular items by purchase count, then list (in a table):
+  * Item ID
+  * Item Name
+  * Purchase Count
+  * Item Price
+  * Total Purchase Value
+
+**Most Profitable Items**
+
+* Identify the 5 most profitable items by total purchase value, then list (in a table):
+  * Item ID
+  * Item Name
+  * Purchase Count
+  * Item Price
+  * Total Purchase Value
 
 ## Script
 
+[Jupyter Notebook](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/HerosOfPymoli.ipynb)
+[Final Report]()
+
 ## Results
+
+Demographics
+* There are 576 players in Heroes of Pymoli.
+* Male predominantly accounts for 84% of the players, with 14% being females and almost 2% did not disclosed their gender.
+* There are the most players in the 20-24 Age group that accounts for almost 45% of the players. 
+* Other popular age groups include the 15-19 and 25-29 age group that accounts for 19% and 13% respectively.
+
+
+Purchasing Analysis
+* There are 179 items that are sold at an average of $3.05.
+* 780 purchases are made with a revenue of $2,380.00.
+* Male players make contribute to 83% of the total revenue.  
+* 
+
+
+
+
+
 
 ## **This Homework has the following outputs:**
 
