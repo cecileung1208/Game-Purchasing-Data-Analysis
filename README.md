@@ -91,19 +91,19 @@ The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
 ## Results
 
-**Gender Demographics**
+**1. Gender Demographics**
 
 The major participants who plays and buy the game are predominantly male players as they account almost 85% of the players and the total purchases.
 * 84.03% of the 576 players are male.
 * 82.68% of the total purchases are made by male players.
 
-**Age Demographics**
+**2. Age Demographics**
 
 The major participants of the game are in the 20-24 age range as they account for almost 50% of the purchases:
 * 44.79% of the 576 players are in the age 20-24 category.
 * 46.81% of the age 20-24 players are made by these players
 
-**Most Profitable and Popular Items**
+**3. Most Profitable and Popular Items**
 
 The most profitable and popular item is Final Critic as it has the highest purchase count and made the most profits.
 * There is a total of 13 purchases made for this game.
