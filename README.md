@@ -22,7 +22,12 @@ The report requires a breakdown of the following:
 
 
 ## Method
-* Import the CSV file into a Jupyter notebook and extract results for the following:
+
+**Dependencies and Import CSV Datasets**
+* Import Dependencies
+* Import the CSV file into a Jupyter notebook
+
+Use the imported CSV dataset to conduct the following:
 
 **Player Count**
 * Determine unique number of players for the game.
