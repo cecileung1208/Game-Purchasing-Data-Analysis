@@ -6,7 +6,7 @@
 Heroes of Pymoli is a new fantasy online game that allows people to play for free where they can alos purchase items to enhance their experience.  A CSV dataset has been provided to uncover demographic trends and preferences so that the company can determine optimal marketing strategies to increase revenues.  To conduct the data analysis , Python with Pandas (through Jupyter Notebooks) will be  used to clean and process the data, as well as calculate the desired outputs.
 
 ## Datasets
-* [Heroes of Pymoli Purchasing Dataset](https://github.com/cecileung1208/Game-Purchasing-DataAnalysis/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv)
+* [Heroes of Pymoli Purchasing Dataset](https://github.com/cecileung1208/Game-Purchasing-Data-Analysis/blob/master/Heroes%20of%20Pymoli/Resources/HeroesOfPymoli_Purchase_Data.csv)
 
 ## Requirements
 The report requires a breakdown of the following:
